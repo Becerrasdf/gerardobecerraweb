@@ -2,7 +2,9 @@
     "version": 3,
     "mappings": "",
     "sources": [
-        "../sass/styles.scss"
+        "../sass/styles.scss",
+        "../sass/base/_base.scss",
+        "../sass/base/_typography.scss"
     ],
     "names": [],
     "file": "styles.css"
