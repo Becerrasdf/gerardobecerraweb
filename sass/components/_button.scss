@@ -4,10 +4,15 @@
     &:visited {
         text-decoration: none;
         display: inline-block;
-        padding: 1.5rem 4rem;
     }
 }
 
 .nav-button{
     color: $color-black;
+    margin: 0 5.5rem;
+}
+
+.email-button{
+    color: $color-black;
+    font-weight: 600;
 }

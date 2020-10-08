@@ -1,0 +1,14 @@
+.circle{
+    height: 25rem;
+    width: 25rem;
+    background-image: linear-gradient(to bottom, #FF4600 0%, #FFE32E 100%);
+    display: inline-block;
+    border-radius: 50%;
+
+    &--1{
+        position: absolute;
+        right: $margin-main-side;
+        top: 14.5rem;
+    }
+
+}

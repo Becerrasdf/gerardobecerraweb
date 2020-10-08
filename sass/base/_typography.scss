@@ -15,17 +15,24 @@ body {
 }
 
 .heading-primary{
+    margin: 0;
+    padding: 0;
+    line-height: 1;
     
     &--main{
         display: block;
         font-size: 7.2rem;
         font-weight: 800;
+        margin: 0;
+        padding: 0;
     }
 
     &--sub{
         display: block;
         font-size: 3.2rem;
         font-weight: 700;
+        margin: 0;
+        padding: 0;
     }
 
     &__yellow{
@@ -34,8 +41,7 @@ body {
 }
 
 .heading-secondary{
-    font-size: 2.4rem;
-    width: 52.8rem;
+    
 }
 
 .header__navbox{
