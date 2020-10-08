@@ -6,17 +6,44 @@ body {
     letter-spacing: -1.2px;
 }
 
+.header{
+    &__logo {
+        color: $color-black;
+        font-size: 4.4rem;
+
+    }
+}
+
 .heading-primary{
     
     &--main{
         display: block;
-        font-size: 4.8rem;
-        font-weight: 700;
+        font-size: 7.2rem;
+        font-weight: 800;
     }
 
     &--sub{
         display: block;
-        font-size: 2.4rem;
-        font-weight: 300;
+        font-size: 3.2rem;
+        font-weight: 700;
     }
+
+    &__yellow{
+        color: $color-yellow;
+    }
+}
+
+.heading-secondary{
+    font-size: 2.4rem;
+    width: 52.8rem;
+}
+
+.header__navbox{
+    font-size: 1.6rem;
+    font-weight: 600;
+
+    &.about-button{
+        color: $color-black;
+    }
+    
 }

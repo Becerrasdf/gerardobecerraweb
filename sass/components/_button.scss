@@ -1,0 +1,13 @@
+.btn{
+
+    &:link,
+    &:visited {
+        text-decoration: none;
+        display: inline-block;
+        padding: 1.5rem 4rem;
+    }
+}
+
+.nav-button{
+    color: $color-black;
+}
