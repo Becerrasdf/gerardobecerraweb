@@ -6,7 +6,7 @@
     &__textbox{
         position: absolute;
         left: $margin-main-side;
-        top: 22.3rem;
+        top: 15rem;
     }
 
     &__navbox{
@@ -25,6 +25,12 @@
 
     &__social-media{
         margin: 30rem 0 0;
+    }
+
+    &__portrait{
+        position: absolute;
+        right: 28.6rem;
+        top: 15rem;
     }
     
 }

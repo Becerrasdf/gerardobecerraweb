@@ -103,7 +103,7 @@ body {
 .header__textbox {
   position: absolute;
   left: 19.2rem;
-  top: 22.3rem;
+  top: 15rem;
 }
 
 .header__navbox {
@@ -121,6 +121,12 @@ body {
 
 .header__social-media {
   margin: 30rem 0 0;
+}
+
+.header__portrait {
+  position: absolute;
+  right: 28.6rem;
+  top: 15rem;
 }
 
 .heading-primary--main {
