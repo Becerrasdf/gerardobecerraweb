@@ -127,6 +127,7 @@ body {
   position: absolute;
   right: 28.6rem;
   top: 15rem;
+  z-index: 0;
 }
 
 .heading-primary--main {
